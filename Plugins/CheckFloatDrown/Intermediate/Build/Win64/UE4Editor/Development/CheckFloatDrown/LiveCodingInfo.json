@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CheckFloatDrown.cpp.obj": [
+			"CheckFloatDrown.cpp.obj",
+			"CheckFloatorDrown.cpp.obj"
+		],
+		"Module.CheckFloatDrown.gen.cpp.obj": [
+			"CheckFloatDrown.init.gen.cpp.obj",
+			"CheckFloatorDrown.gen.cpp.obj"
+		]
+	}
+}
