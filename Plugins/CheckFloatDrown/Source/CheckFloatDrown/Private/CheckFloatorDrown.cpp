@@ -17,6 +17,7 @@ ACheckFloatorDrown::ACheckFloatorDrown()
 void ACheckFloatorDrown::BeginPlay()
 {
 	Super::BeginPlay();
+	texts.Add(TEXT("PathName, Position, State, Offset"));
 }
 
 // Called every frame
