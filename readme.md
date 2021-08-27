@@ -10,7 +10,7 @@
 
 linetrace:仅检查某固定(x,y)对应地形高度和物品高度的差距
 
-boxtrace:检查actor边界框x,y范围内物品是否与地面有重叠
+boxtrace:检查actor边界框x,y范围内物品最低点与地面最高点的高度差距
 
 boundcheck:检查actor边界框是否高于地面
 
