@@ -10,9 +10,9 @@
 
 linetrace:仅检查某固定(x,y)对应地形高度和物品高度的差距
 
-boxtrace:包围盒范围内物品是否与地面有重叠
+boxtrace:检查actor边界框x,y范围内物品是否与地面有重叠
 
-boundcheck:检查包围盒是否高于地面
+boundcheck:检查actor边界框是否高于地面
 
 运行时每执行一次tick检查一次，可以通过调整tick频率调整检查频率
 
